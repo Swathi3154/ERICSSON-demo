@@ -1,1 +1,7 @@
+// This script runs when the page loads
+console.log("Welcome to the Ericsson clone site!");
 
+// Example: Show an alert when the user clicks a button (if you add one later)
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Page fully loaded and ready!");
+});
